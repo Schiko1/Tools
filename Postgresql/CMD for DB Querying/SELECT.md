@@ -35,3 +35,8 @@ postgres=> SELECT * FROM weather ORDER BY city, temp_lo;
 ```sql
 SELECT DISTINCT city FROM weather;
 ```
+
+- Limit
+```sql
+SELECT DISTINCT city FROM weather LIMIT 1 [OFFSET 5]; --OFFSET would make it start on the 6 entry
+```
