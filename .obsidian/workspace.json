@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "358a3fed16a40963",
+        "id": "c339df2d2d880ecc",
         "type": "tabs",
         "children": [
           {
-            "id": "219a89f0a16814ec",
+            "id": "3255edbe040728b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Postgresql/CMD for DB Querying/Subqueries.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Subqueries"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "449bb68d5a174b41",
@@ -162,10 +165,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "219a89f0a16814ec",
+  "active": "3255edbe040728b9",
   "lastOpenFiles": [
+    "Postgresql/CMD for DB Querying/Subqueries.md",
     "Postgresql/CMD for DB Querying/Query Optimization.md",
     "Postgresql/CMD for DB Querying/Indexes.md",
     "Postgresql/CMD for DB Querying/CASE expressions.md",
