@@ -17,3 +17,6 @@
 - Absolute cell reference
 	- keeps cell reference constant with auto complete
 	- add a dollar sign 
+
+## Functions
+- 
