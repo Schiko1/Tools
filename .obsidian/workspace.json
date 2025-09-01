@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel/Formulas.md",
+                "file": "Excel/Data Errors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formulas"
+              "title": "Data Errors"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "449bb68d5a174b41",
@@ -184,14 +183,15 @@
   },
   "active": "3255edbe040728b9",
   "lastOpenFiles": [
+    "Power BI/Power BI Desktop Basics.md",
+    "Excel/Data Errors.md",
+    "Excel/Formulas.md",
     "Images/Untitled",
     "1.Images",
     "Excel/Basics.md",
-    "Excel/Formulas.md",
     "Excel/Data Analysis.md",
     "1.Images/Pasted image 20250827201743.png",
     "Generative AI.md",
-    "Power BI/Power BI Desktop Basics.md",
     "Excel",
     "Postgresql/CMD for DB Querying/Subqueries.md",
     "Postgresql/CMD for DB Querying/Query Optimization.md",
