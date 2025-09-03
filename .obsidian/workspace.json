@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel/Data Errors.md",
+                "file": "Excel/Logical Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Errors"
+              "title": "Logical Functions"
             }
           }
         ]
@@ -183,9 +183,17 @@
   },
   "active": "3255edbe040728b9",
   "lastOpenFiles": [
+    "Excel/Date Calculations.md",
+    "Excel/Logical Functions.md",
+    "Excel/Formulas.md",
+    "Postgresql/CMD for DB Querying/Aggregate Functions.md",
+    "Postgresql/CMD for DB Querying/CASE expressions.md",
+    "Postgresql/CMD for DB Querying/Indexes.md",
+    "Postgresql/CMD for DB Querying/Query Optimization.md",
+    "Postgresql/CMD for DB Querying/Subqueries.md",
+    "Postgresql/Basics.md",
     "Power BI/Power BI Desktop Basics.md",
     "Excel/Data Errors.md",
-    "Excel/Formulas.md",
     "Images/Untitled",
     "1.Images",
     "Excel/Basics.md",
@@ -193,18 +201,12 @@
     "1.Images/Pasted image 20250827201743.png",
     "Generative AI.md",
     "Excel",
-    "Postgresql/CMD for DB Querying/Subqueries.md",
-    "Postgresql/CMD for DB Querying/Query Optimization.md",
-    "Postgresql/CMD for DB Querying/Indexes.md",
-    "Postgresql/CMD for DB Querying/CASE expressions.md",
     "Postgresql/CMD for DB Querying/Relationships.md",
     "Postgresql/CMD for DB Querying/Date & Time.md",
-    "Postgresql/CMD for DB Querying/Aggregate Functions.md",
     "Postgresql/CMD for DB Querying/Views.md",
     "Postgresql/CMD for DB Querying/NULL handling.md",
     "Postgresql/CMD for DB Querying/SELECT.md",
     "Postgresql/CMD for DB Querying/JOIN.md",
-    "Postgresql/Basics.md",
     "Postgresql/CMD for DB manipulation/Commands Before SQL.md",
     "Postgresql/CMD for DB manipulation/Table creation and filling.md",
     "Postgresql/CMD for DB manipulation/DELETE.md",

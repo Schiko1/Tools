@@ -19,4 +19,7 @@
 	- add a dollar sign 
 
 ## Functions
-- 
+- UPPER
+- LOWER
+- PROPER
+- CONCAT
