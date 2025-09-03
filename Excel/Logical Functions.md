@@ -1,0 +1,25 @@
+- <> -> Not Equal
+- IF()
+	- Parameters:
+		- Logical test
+		- Value of TRUE
+		- Value of FALSE
+	- Can be nested if : IF(Calc,IF(...),IF(...))
+- IFS()
+	- logical test1,value if true1, logical test2, value if true2,...
+
+- AND/OR
+
+- SUMIF
+	- =SUMIF(B2:B24,”seattle”,G2:G24)
+		- The range of cells that contains the criteria, 
+		- What the criteria is
+		- And the range of cells holding the values must be included in the total
+		- Sees every row that contains in B2:B24 that contains seattle 
+- AVERAGEIF
+	- Same, but gets average
+- COUNTIF
+	- returns a count of how many occurrences it has found
+	- Parameters:
+		- The range of cells to examine,
+		- And the condition to search for
