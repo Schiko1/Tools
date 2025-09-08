@@ -24,3 +24,10 @@
 - Model View
 	- View relationship between tables, measures and columns
 	- develop the more complicated relationships using the Power query editor to filter the data and reshape the existing model
+
+## DAX
+- Data Analysis Expressions
+- Allow performing operations, manipulate data and tables
+- Aggregations
+- Time-based calculations
+- ratios and percentages

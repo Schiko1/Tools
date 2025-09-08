@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power BI/Data Insights.md",
+                "file": "Power BI/Power BI Desktop Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Insights"
+              "title": "Power BI Desktop Basics"
             }
           }
         ]
@@ -183,9 +183,9 @@
   },
   "active": "3255edbe040728b9",
   "lastOpenFiles": [
+    "Power BI/Data Insights.md",
     "Power BI/Stakeholder experience.md",
     "Power BI/Data gathering.md",
-    "Power BI/Data Insights.md",
     "Power BI/Data Analyst.md",
     "Power BI/Data Roles.md",
     "Excel/Logical Functions.md",
