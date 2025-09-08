@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power BI/Sharing Data Insights.md",
+                "file": "Power BI/Data Insights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sharing Data Insights"
+              "title": "Data Insights"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "3255edbe040728b9",
   "lastOpenFiles": [
+    "Power BI/Stakeholder experience.md",
     "Power BI/Data gathering.md",
-    "Power BI/Sharing Data Insights.md",
+    "Power BI/Data Insights.md",
     "Power BI/Data Analyst.md",
     "Power BI/Data Roles.md",
     "Excel/Logical Functions.md",
@@ -212,7 +213,6 @@
     "Postgresql/CMD for DB Querying/SELECT.md",
     "Postgresql/CMD for DB Querying/JOIN.md",
     "Postgresql/CMD for DB manipulation/Commands Before SQL.md",
-    "Postgresql/CMD for DB manipulation/Table creation and filling.md",
     "Power BI",
     "Postgresql/CMD for DB Querying",
     "Postgresql/CMD for DB manipulation",
