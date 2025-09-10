@@ -13,6 +13,18 @@
 - Advanced Complicated calculation
 	- DAX formulas
 
+
+## Workflow
+1. Create report
+	- Import data sources
+	- clean, transform, load
+	- analyze and present
+2. Publish report
+	- Create dashboards
+	- use visualizations and filters
+3. Share dashboards
+	- Manage access
+
 # Views
 
 - Report View

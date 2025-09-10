@@ -21,3 +21,31 @@
 	- 
 - Data integration
 	- Combine from different sources
+
+## Identifying and evaluating required data
+- Ask right question
+- analyze for a decision
+- classify data type
+
+- Identifying
+	- Internal, social media, sensor data
+	- ERP system
+	- Structured data
+	- semi-structured data
+	- unstructured data
+		- Online messages, fotos, videos
+	- Based on product, category, customer type
+- Evaluation
+	- Trend analysis
+	- Sales analysis
+
+
+## Ingesting data
+- obtaining and importing data for use or storage
+- data consolidation
+- Methods:
+	- Manual data entry
+	- file-based ingestion
+	- database connections
+	- web scraping
+	- data streaming
