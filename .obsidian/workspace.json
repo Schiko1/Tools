@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "346e485cca29eb13",
+        "id": "5153dd37c2198f8e",
         "type": "tabs",
         "children": [
           {
-            "id": "90f11a900c6f8165",
+            "id": "9dbb17b3acf24d03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power BI/Basics/Power query.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Power query"
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,15 +177,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90f11a900c6f8165",
+  "active": "8ab4c9f8e53430d9",
   "lastOpenFiles": [
+    "2025-09-11.md",
+    "Power BI/Basics/Power query.md",
     "Power BI/Basics/Data gathering.md",
     "Power BI/Basics/Data cleaning and transforming.md",
     "Power BI/Basics/Extract, Transform, Load.md",
     "Power BI/Basics/Power BI Desktop Basics.md",
     "Power BI/Basics/Data Analyst.md",
     "Power BI/Basics/Exercise.md",
-    "Power BI/Basics/Power query.md",
     "Power BI/Basics",
     "Excel/Excel Lookup Functions.md",
     "Power BI/Basics/Data storing and managing.md",
@@ -214,7 +210,6 @@
     "1.Images/Pasted image 20250827201743.png",
     "Generative AI.md",
     "Excel",
-    "Postgresql/CMD for DB Querying/Relationships.md",
     "Power BI",
     "Postgresql/CMD for DB Querying",
     "Postgresql/CMD for DB manipulation",
