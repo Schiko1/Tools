@@ -23,3 +23,5 @@
 	- Data governance(single source of data)
 
 - Use power query in powerbi
+
+
